@@ -1,9 +1,9 @@
-package ru.geekbrains.lesson1.homework;
+package ru.geekbrains.lesson1.homework1;
 
-import ru.geekbrains.lesson1.homework.InMemoryModel.ModelStore;
-import ru.geekbrains.lesson1.homework.InMemoryModel.Observer1;
-import ru.geekbrains.lesson1.homework.InMemoryModel.Observer2;
-import ru.geekbrains.lesson1.homework.ModelElements.PoligonalModel;
+import ru.geekbrains.lesson1.homework1.InMemoryModel.ModelStore;
+import ru.geekbrains.lesson1.homework1.InMemoryModel.Observer1;
+import ru.geekbrains.lesson1.homework1.InMemoryModel.Observer2;
+import ru.geekbrains.lesson1.homework1.ModelElements.PoligonalModel;
 
 public class Program {
 

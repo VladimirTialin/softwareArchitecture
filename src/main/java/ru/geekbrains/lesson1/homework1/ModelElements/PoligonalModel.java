@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson1.homework.ModelElements;
+package ru.geekbrains.lesson1.homework1.ModelElements;
 
 import java.util.ArrayList;
 import java.util.Collection;

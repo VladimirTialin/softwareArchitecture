@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson1.homework.InMemoryModel;
+package ru.geekbrains.lesson1.homework1.InMemoryModel;
 
 public class Observer1 implements ModelChangedObserver{
     @Override
